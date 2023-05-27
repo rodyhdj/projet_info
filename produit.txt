@@ -1,0 +1,12 @@
+RSQ3
+Le moteur a une cylindrée de 2 480 centimètres cubes et il délivre une puissance maximale de 228 kW (310 ch) ou, en tant que RS Q3 Performance, une puissance maximale de 270 kW (367 ch). Le couple maximal du moteur de 2,5 l est de 450 Nm dans le RS Q3 et de 465 Nm dans le RS Q3 Performance.
+50000 15
+LawAMG
+ce cylindre est équipée d'un moteur longitudinal avant huit cylindres en V suralimenté développant un couple maximum de 700 Nm dès 1750 trs/min et une puissance maximum de 510 ch à 5500 trs/min transmise aux roues arrières de 19 pouces par le biais d'une boite de vitesse automatique à 7 rapports
+200224 2
+Rodysportback
+ce vehicule est propulsée par un moteur essence V8 de 4 172 cm3 biturbo, développé en Angleterre avec le concours de la société Cosworth. Le moteur est basé sur le moteur V8 d'une puissance maximale de 250 kW (340 ch) de l'Audi S6 C5, qui a été construit de 1999 à 2005.
+1700025 7
+norisknorari
+SUV haut de gamme du constructeur automobile allemand Porsche. Lancée en décembre 2002 (955 puis 957 - Type 9PA), elle est renouvelée en mai 2010 (958 Type 92A) avant l'arrivée de la troisième génération présentée en septembre 2017 (Type PO536) ainsi que sa version Coupé.
+450000 0
